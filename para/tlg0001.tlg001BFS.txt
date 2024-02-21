@@ -1,0 +1,99 @@
+1. 
+	  
+2. 
+		    
+3. 
+			      
+4. 
+			        
+5. 
+					          
+546. πλημμυρίς
+547. πλυμμυρίς
+1786. 
+					          
+3193. 
+					          
+4099. μόσσυνας· καὶ δʼ αὐτοὶ ἐπώνυμοι ἔνθεν ἔασιν.
+4101. κάλινα καὶ πύργους εὐπηγέας, οὓς καλέουσιν
+4483. 
+					          
+5254. ἀκτήν τʼ αἰγιαλόν τε δυσήνεμον εἰσορόωντες.
+5847. 
+		    
+5848. 
+            
+5849. Initial markup
+5850. added cvs log keyword
+5851. began reorganizing texts module by collection.  created separate work directory in texts module to keep hopper files separate from in progress files
+5852. small fixes to the beta code
+5853. Q tags added; LB tags replace L tags (so that we can have Q tags)
+5854. common nouns now reduced to lower case
+5855. adding rend=displayNum or rend=displayNumAndIndent to lb tags
+5856. tagging now should be compatible with CTS
+5857. moving Greg's work-in-progress on CTS-izing greco-roman collection texts to a Work directory
+5858. converted to CTS EpiDoc
+5859. fixed missing line numbers and reordered milestones as appropriate
+5860. 
+			      
+5861. 
+				        
+5862. Greek
+5863. 
+         
+5864. 
+				        
+5865. 
+				        
+5866. 
+					          
+5867. professional data entry
+5868. 
+            
+5869. 
+                
+5870. This pointer pattern extracts book
+5871. 
+                
+5872. This pointer pattern extracts book and line
+5873. 
+			      
+5874. 
+				        
+5875. 
+					          
+5876. 
+						            
+5877. 
+							              
+5878. 1912
+5879. Longmans, Green
+5880. London
+5881. George W. Mooney
+5882. Apollonius Rhodius
+5883. Argonautica
+5884. 
+				        
+5885. 
+			          
+5886. Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+5887. tlg0001.tlg001.perseus-grc2.xml
+5888. 2002
+5889. Perseus Project
+5890. Medford, MA
+5891. Trustees of Tufts University
+5892. 
+				        
+5893. Tufts University
+5894. 
+					          
+5895. David Smith
+5896. Rashmi Singhal
+5897. Lisa Cerrato
+5898. Bridget Almas
+5899. Prepared under the supervision of
+5900. Gregory Crane
+5901. Perseus Project, Tufts University
+5902. George W. Mooney
+5903. Apollonius Rhodius
+5904. Argonautica
